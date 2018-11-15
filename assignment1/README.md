@@ -17,3 +17,6 @@ starting page:  https://www.jd.com/index.html
 
 ## License
 CC 4.0
+
+## Enrich my dataset
+http://index.baidu.com/ Use Baidu index to know customer's attention to the diffrent brands of smartphone.
